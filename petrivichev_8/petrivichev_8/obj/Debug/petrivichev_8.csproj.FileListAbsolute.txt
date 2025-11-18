@@ -1,0 +1,6 @@
+C:\Users\user\source\repos\petrivichev_8\petrivichev_8\bin\Debug\petrivichev_8.exe
+C:\Users\user\source\repos\petrivichev_8\petrivichev_8\bin\Debug\petrivichev_8.pdb
+C:\Users\user\source\repos\petrivichev_8\petrivichev_8\obj\Debug\petrivichev_8.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\petrivichev_8\petrivichev_8\obj\Debug\petrivichev_8.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\petrivichev_8\petrivichev_8\obj\Debug\petrivichev_8.exe
+C:\Users\user\source\repos\petrivichev_8\petrivichev_8\obj\Debug\petrivichev_8.pdb
