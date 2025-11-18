@@ -1,0 +1,8 @@
+C:\Users\user\source\repos\Rabota_16\Rabota_16\bin\Debug\Rabota_16.exe
+C:\Users\user\source\repos\Rabota_16\Rabota_16\bin\Debug\Rabota_16.pdb
+C:\Users\user\source\repos\Rabota_16\Rabota_16\obj\Debug\Rabota_16.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\Rabota_16\Rabota_16\obj\Debug\Rabota_16.Properties.Resources.resources
+C:\Users\user\source\repos\Rabota_16\Rabota_16\obj\Debug\Rabota_16.csproj.GenerateResource.cache
+C:\Users\user\source\repos\Rabota_16\Rabota_16\obj\Debug\Rabota_16.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\Rabota_16\Rabota_16\obj\Debug\Rabota_16.exe
+C:\Users\user\source\repos\Rabota_16\Rabota_16\obj\Debug\Rabota_16.pdb
