@@ -1,0 +1,6 @@
+C:\Users\1\Desktop\АндрейПрога\12\Task12\bin\Debug\Task12.exe
+C:\Users\1\Desktop\АндрейПрога\12\Task12\bin\Debug\Task12.pdb
+C:\Users\1\Desktop\АндрейПрога\12\Task12\obj\Debug\Task12.csproj.AssemblyReference.cache
+C:\Users\1\Desktop\АндрейПрога\12\Task12\obj\Debug\Task12.csproj.CoreCompileInputs.cache
+C:\Users\1\Desktop\АндрейПрога\12\Task12\obj\Debug\Task12.exe
+C:\Users\1\Desktop\АндрейПрога\12\Task12\obj\Debug\Task12.pdb
